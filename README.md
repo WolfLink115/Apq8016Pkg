@@ -1,13 +1,13 @@
 # Apq8016Pkg
-Project Silicium WIP Silicon Port for APQ8016 SoCs. Vibe-Coded with Kilo Code.
+### Project Silicium WIP Silicon Port for APQ8016 SoCs. Vibe-Coded with Kilo Code.
 
 ## Status
-Non-Booting Yet.
+### Non-Booting Yet.
 
 ## Setting up your Environment
-Tested on Linux Mint 23.2
+### Tested on Linux Mint 23.2
 
-First, clone Project Silicium and Silicon Source Code:
+### First, clone Project Silicium and Silicon Source Code:
 
 ```
 mkdir -p ~/silicium && cd ~/silicium
@@ -24,8 +24,12 @@ git clone https://github.com/WolfLink115/Apq8016Pkg Mu-Silicium/Silicon/Qualcomm
 
 # Credits
 [Tianocore Dev Team](https://github.com/tianocore).
+
 [Project Silicium](https://github.com/Project-Silicium).
+
 My friend [Tyler](https://github.com/Tyler6284) who told me about Kilo Code.
+
 [Kilo Code](https://kilo.ai).
+
 And everyone else who made this project possible.
 
