@@ -1,13 +1,13 @@
 # Apq8016Pkg
-### Project Silicium WIP Silicon Port for APQ8016 SoCs. Vibe-Coded with Kilo Code.
+Project Silicium WIP Silicon Port for APQ8016 SoCs. Vibe-Coded with Kilo Code.
 
 ## Status
-### Non-Booting Yet.
+Non-Booting Yet.
 
 ## Setting up your Environment
-### Tested on Linux Mint 23.2
+Tested on Linux Mint 23.2
 
-### First, clone Project Silicium and Silicon Source Code:
+First, clone Project Silicium and Silicon Source Code:
 
 ```
 mkdir -p ~/silicium && cd ~/silicium
